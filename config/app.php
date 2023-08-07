@@ -160,6 +160,7 @@ return [
          * Package Service Providers...
          */
         Yajra\DataTables\DataTablesServiceProvider::class,
+        App\Providers\RepositoryServiceProvider::class,
         /*
          * Application Service Providers...
          */
